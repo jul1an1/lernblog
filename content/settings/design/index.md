@@ -1,8 +1,7 @@
 +++
 headless = true
 icon = ""
-logo = ""
-image = ""
+logo = "/media/global.png"
+image = "/media/unbenannt4.png"
 color = ""
 +++
-
