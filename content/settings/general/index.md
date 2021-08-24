@@ -1,7 +1,7 @@
 +++
 headless = true
-title = "Julian Bausch"
+title = "Meine Erfahrungen im WEB"
 description = "mein Blog"
-footerLeft = "Powered by ❤️ and [lernblog.ch](https://www.lernblog.ch)"
+footerLeft = ""
 footerRight = ""
 +++
